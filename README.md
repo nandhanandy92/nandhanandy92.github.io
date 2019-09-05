@@ -2,3 +2,5 @@
 github pages
 
 a simple static site for my repos and projects
+
+https://nandhanandy92.github.io
